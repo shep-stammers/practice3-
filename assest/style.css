@@ -1,27 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+
 /* -------------------------- General - */
 
-
-
-
+h1 {
+ color: rgb(38, 126, 38);
+ font-family: "Dancing Script" , sans-serif;
+ font-size: 150%;
+ font-weight: 700;
+}
 
 
 /* -------------------------- Header - */
+header {
+    margin: 0;
+}
 
 
+.navbar{
+    padding: 0;
+}
+header li{
+    color: rgb(38, 126, 38);
+}
 
+.bg-color-navbar{
+    background-color: black;
+}
 
+.nav-link{
+    color:rgb(38, 126, 38)
+}
 
 
 /* -------------------------- Main - */
 
-
-
-
-
+.bg-color-box1{
+    color:rgb(38, 126, 38);
+    background-color: black;
+}
 
 
 /* -------------------------- Footer - */
 
 
-
+.footer-item{
+    padding: 30px;
+    color: rgb(38, 126, 38);
+}
 
